@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://nobuyukigotouyahoo.github.io/csb-gxo490/static/css/main.249edbc4.chunk.css",
+    "main.js": "https://nobuyukigotouyahoo.github.io/csb-gxo490/static/js/main.40e029f9.chunk.js",
+    "main.js.map": "https://nobuyukigotouyahoo.github.io/csb-gxo490/static/js/main.40e029f9.chunk.js.map",
+    "runtime-main.js": "https://nobuyukigotouyahoo.github.io/csb-gxo490/static/js/runtime-main.39205e2b.js",
+    "runtime-main.js.map": "https://nobuyukigotouyahoo.github.io/csb-gxo490/static/js/runtime-main.39205e2b.js.map",
+    "static/js/2.861ea66b.chunk.js": "https://nobuyukigotouyahoo.github.io/csb-gxo490/static/js/2.861ea66b.chunk.js",
+    "static/js/2.861ea66b.chunk.js.map": "https://nobuyukigotouyahoo.github.io/csb-gxo490/static/js/2.861ea66b.chunk.js.map",
+    "index.html": "https://nobuyukigotouyahoo.github.io/csb-gxo490/index.html",
+    "static/css/main.249edbc4.chunk.css.map": "https://nobuyukigotouyahoo.github.io/csb-gxo490/static/css/main.249edbc4.chunk.css.map",
+    "static/js/2.861ea66b.chunk.js.LICENSE.txt": "https://nobuyukigotouyahoo.github.io/csb-gxo490/static/js/2.861ea66b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.39205e2b.js",
+    "static/js/2.861ea66b.chunk.js",
+    "static/css/main.249edbc4.chunk.css",
+    "static/js/main.40e029f9.chunk.js"
+  ]
+}
